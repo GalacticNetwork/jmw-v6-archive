@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Please consider giving this respritory a star if you feel like it.
+> ts is archived go to <a href="https://github.com/justjxrdanwasdefinetlytaken/jmw-node">this repo</a>
 # 
 <p align="center"><img src="https://github.com/GalacticNetwork/jordansmathwork-v6/blob/main/assets/images/jmw.png?raw=true" height="200">
 </p>
